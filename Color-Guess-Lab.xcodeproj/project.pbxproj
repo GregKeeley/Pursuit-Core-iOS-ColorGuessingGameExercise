@@ -7,27 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		C19F57C6236A0B27009AEB52 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C19F57C5236A0B27009AEB52 /* AppDelegate.swift */; };
-		C19F57C8236A0B27009AEB52 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C19F57C7236A0B27009AEB52 /* SceneDelegate.swift */; };
-		C19F57CA236A0B27009AEB52 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C19F57C9236A0B27009AEB52 /* ViewController.swift */; };
-		C19F57CD236A0B27009AEB52 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C19F57CB236A0B27009AEB52 /* Main.storyboard */; };
-		C19F57CF236A0B29009AEB52 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C19F57CE236A0B29009AEB52 /* Assets.xcassets */; };
-		C19F57D2236A0B29009AEB52 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C19F57D0236A0B29009AEB52 /* LaunchScreen.storyboard */; };
+		C11D9DCA236B2C5C004A2D16 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C11D9DC9236B2C5C004A2D16 /* AppDelegate.swift */; };
+		C11D9DCC236B2C5C004A2D16 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C11D9DCB236B2C5C004A2D16 /* SceneDelegate.swift */; };
+		C11D9DCE236B2C5C004A2D16 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C11D9DCD236B2C5C004A2D16 /* ViewController.swift */; };
+		C11D9DD1236B2C5C004A2D16 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C11D9DCF236B2C5C004A2D16 /* Main.storyboard */; };
+		C11D9DD3236B2C5E004A2D16 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C11D9DD2236B2C5E004A2D16 /* Assets.xcassets */; };
+		C11D9DD6236B2C5E004A2D16 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C11D9DD4236B2C5E004A2D16 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		C19F57C2236A0B27009AEB52 /* Color_Guess_Lab.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Color_Guess_Lab.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		C19F57C5236A0B27009AEB52 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		C19F57C7236A0B27009AEB52 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		C19F57C9236A0B27009AEB52 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		C19F57CC236A0B27009AEB52 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		C19F57CE236A0B29009AEB52 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		C19F57D1236A0B29009AEB52 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		C19F57D3236A0B29009AEB52 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C11D9DC6236B2C5C004A2D16 /* Color-Guess-Lab.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Color-Guess-Lab.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C11D9DC9236B2C5C004A2D16 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		C11D9DCB236B2C5C004A2D16 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		C11D9DCD236B2C5C004A2D16 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		C11D9DD0236B2C5C004A2D16 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		C11D9DD2236B2C5E004A2D16 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		C11D9DD5236B2C5E004A2D16 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		C11D9DD7236B2C5E004A2D16 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		C19F57BF236A0B27009AEB52 /* Frameworks */ = {
+		C11D9DC3236B2C5C004A2D16 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,72 +37,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		C19F57B9236A0B27009AEB52 = {
+		C11D9DBD236B2C5C004A2D16 = {
 			isa = PBXGroup;
 			children = (
-				C19F57C4236A0B27009AEB52 /* Color_Guess_Lab */,
-				C19F57C3236A0B27009AEB52 /* Products */,
+				C11D9DC8236B2C5C004A2D16 /* Color-Guess-Lab */,
+				C11D9DC7236B2C5C004A2D16 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		C19F57C3236A0B27009AEB52 /* Products */ = {
+		C11D9DC7236B2C5C004A2D16 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C19F57C2236A0B27009AEB52 /* Color_Guess_Lab.app */,
+				C11D9DC6236B2C5C004A2D16 /* Color-Guess-Lab.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		C19F57C4236A0B27009AEB52 /* Color_Guess_Lab */ = {
+		C11D9DC8236B2C5C004A2D16 /* Color-Guess-Lab */ = {
 			isa = PBXGroup;
 			children = (
-				C19F57C5236A0B27009AEB52 /* AppDelegate.swift */,
-				C19F57C7236A0B27009AEB52 /* SceneDelegate.swift */,
-				C19F57C9236A0B27009AEB52 /* ViewController.swift */,
-				C19F57CB236A0B27009AEB52 /* Main.storyboard */,
-				C19F57CE236A0B29009AEB52 /* Assets.xcassets */,
-				C19F57D0236A0B29009AEB52 /* LaunchScreen.storyboard */,
-				C19F57D3236A0B29009AEB52 /* Info.plist */,
+				C11D9DC9236B2C5C004A2D16 /* AppDelegate.swift */,
+				C11D9DCB236B2C5C004A2D16 /* SceneDelegate.swift */,
+				C11D9DCD236B2C5C004A2D16 /* ViewController.swift */,
+				C11D9DCF236B2C5C004A2D16 /* Main.storyboard */,
+				C11D9DD2236B2C5E004A2D16 /* Assets.xcassets */,
+				C11D9DD4236B2C5E004A2D16 /* LaunchScreen.storyboard */,
+				C11D9DD7236B2C5E004A2D16 /* Info.plist */,
 			);
-			path = Color_Guess_Lab;
+			path = "Color-Guess-Lab";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		C19F57C1236A0B27009AEB52 /* Color_Guess_Lab */ = {
+		C11D9DC5236B2C5C004A2D16 /* Color-Guess-Lab */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C19F57D6236A0B29009AEB52 /* Build configuration list for PBXNativeTarget "Color_Guess_Lab" */;
+			buildConfigurationList = C11D9DDA236B2C5E004A2D16 /* Build configuration list for PBXNativeTarget "Color-Guess-Lab" */;
 			buildPhases = (
-				C19F57BE236A0B27009AEB52 /* Sources */,
-				C19F57BF236A0B27009AEB52 /* Frameworks */,
-				C19F57C0236A0B27009AEB52 /* Resources */,
+				C11D9DC2236B2C5C004A2D16 /* Sources */,
+				C11D9DC3236B2C5C004A2D16 /* Frameworks */,
+				C11D9DC4236B2C5C004A2D16 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = Color_Guess_Lab;
-			productName = Color_Guess_Lab;
-			productReference = C19F57C2236A0B27009AEB52 /* Color_Guess_Lab.app */;
+			name = "Color-Guess-Lab";
+			productName = "Color-Guess-Lab";
+			productReference = C11D9DC6236B2C5C004A2D16 /* Color-Guess-Lab.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		C19F57BA236A0B27009AEB52 /* Project object */ = {
+		C11D9DBE236B2C5C004A2D16 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 1100;
-				LastUpgradeCheck = 1100;
+				LastSwiftUpdateCheck = 1110;
+				LastUpgradeCheck = 1110;
 				ORGANIZATIONNAME = "Gregory Keeley";
 				TargetAttributes = {
-					C19F57C1236A0B27009AEB52 = {
-						CreatedOnToolsVersion = 11.0;
+					C11D9DC5236B2C5C004A2D16 = {
+						CreatedOnToolsVersion = 11.1;
 					};
 				};
 			};
-			buildConfigurationList = C19F57BD236A0B27009AEB52 /* Build configuration list for PBXProject "Color_Guess_Lab" */;
+			buildConfigurationList = C11D9DC1236B2C5C004A2D16 /* Build configuration list for PBXProject "Color-Guess-Lab" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,55 +110,55 @@
 				en,
 				Base,
 			);
-			mainGroup = C19F57B9236A0B27009AEB52;
-			productRefGroup = C19F57C3236A0B27009AEB52 /* Products */;
+			mainGroup = C11D9DBD236B2C5C004A2D16;
+			productRefGroup = C11D9DC7236B2C5C004A2D16 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				C19F57C1236A0B27009AEB52 /* Color_Guess_Lab */,
+				C11D9DC5236B2C5C004A2D16 /* Color-Guess-Lab */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		C19F57C0236A0B27009AEB52 /* Resources */ = {
+		C11D9DC4236B2C5C004A2D16 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C19F57D2236A0B29009AEB52 /* LaunchScreen.storyboard in Resources */,
-				C19F57CF236A0B29009AEB52 /* Assets.xcassets in Resources */,
-				C19F57CD236A0B27009AEB52 /* Main.storyboard in Resources */,
+				C11D9DD6236B2C5E004A2D16 /* LaunchScreen.storyboard in Resources */,
+				C11D9DD3236B2C5E004A2D16 /* Assets.xcassets in Resources */,
+				C11D9DD1236B2C5C004A2D16 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		C19F57BE236A0B27009AEB52 /* Sources */ = {
+		C11D9DC2236B2C5C004A2D16 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C19F57CA236A0B27009AEB52 /* ViewController.swift in Sources */,
-				C19F57C6236A0B27009AEB52 /* AppDelegate.swift in Sources */,
-				C19F57C8236A0B27009AEB52 /* SceneDelegate.swift in Sources */,
+				C11D9DCE236B2C5C004A2D16 /* ViewController.swift in Sources */,
+				C11D9DCA236B2C5C004A2D16 /* AppDelegate.swift in Sources */,
+				C11D9DCC236B2C5C004A2D16 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		C19F57CB236A0B27009AEB52 /* Main.storyboard */ = {
+		C11D9DCF236B2C5C004A2D16 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				C19F57CC236A0B27009AEB52 /* Base */,
+				C11D9DD0236B2C5C004A2D16 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		C19F57D0236A0B29009AEB52 /* LaunchScreen.storyboard */ = {
+		C11D9DD4236B2C5E004A2D16 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				C19F57D1236A0B29009AEB52 /* Base */,
+				C11D9DD5236B2C5E004A2D16 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -166,7 +166,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		C19F57D4236A0B29009AEB52 /* Debug */ = {
+		C11D9DD8236B2C5E004A2D16 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -216,7 +216,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.1;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -226,7 +226,7 @@
 			};
 			name = Debug;
 		};
-		C19F57D5236A0B29009AEB52 /* Release */ = {
+		C11D9DD9236B2C5E004A2D16 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -270,7 +270,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.1;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -280,13 +280,13 @@
 			};
 			name = Release;
 		};
-		C19F57D7236A0B29009AEB52 /* Debug */ = {
+		C11D9DDB236B2C5E004A2D16 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = G4KQ459XHC;
-				INFOPLIST_FILE = Color_Guess_Lab/Info.plist;
+				INFOPLIST_FILE = "Color-Guess-Lab/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -298,13 +298,13 @@
 			};
 			name = Debug;
 		};
-		C19F57D8236A0B29009AEB52 /* Release */ = {
+		C11D9DDC236B2C5E004A2D16 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = G4KQ459XHC;
-				INFOPLIST_FILE = Color_Guess_Lab/Info.plist;
+				INFOPLIST_FILE = "Color-Guess-Lab/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -319,25 +319,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C19F57BD236A0B27009AEB52 /* Build configuration list for PBXProject "Color_Guess_Lab" */ = {
+		C11D9DC1236B2C5C004A2D16 /* Build configuration list for PBXProject "Color-Guess-Lab" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C19F57D4236A0B29009AEB52 /* Debug */,
-				C19F57D5236A0B29009AEB52 /* Release */,
+				C11D9DD8236B2C5E004A2D16 /* Debug */,
+				C11D9DD9236B2C5E004A2D16 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C19F57D6236A0B29009AEB52 /* Build configuration list for PBXNativeTarget "Color_Guess_Lab" */ = {
+		C11D9DDA236B2C5E004A2D16 /* Build configuration list for PBXNativeTarget "Color-Guess-Lab" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C19F57D7236A0B29009AEB52 /* Debug */,
-				C19F57D8236A0B29009AEB52 /* Release */,
+				C11D9DDB236B2C5E004A2D16 /* Debug */,
+				C11D9DDC236B2C5E004A2D16 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = C19F57BA236A0B27009AEB52 /* Project object */;
+	rootObject = C11D9DBE236B2C5C004A2D16 /* Project object */;
 }
